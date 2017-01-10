@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.RoiD" name="[COLOR red]RoiD[/COLOR] Repository" version="1.0.2" provider-name="RoiD">
+    <extension point="xbmc.addon.repository" name="RoiD Repository">
+        <info compressed="false">https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Addons/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Addons/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Addons/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>RoiD repository</summary>
+        <description>RoiD offical repository </description>
+        <platform>all</platform>
+    </extension>
+</addon>

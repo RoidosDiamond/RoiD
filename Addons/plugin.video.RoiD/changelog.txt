@@ -1,0 +1,191 @@
+------------------------------
+v 2017.01.10
+------------------------------
+- Interface changed. all the israeli channels are in the main screen.
+- added Channel 21
+- added Channel 33
+- added Channel ILand
+- added tvOne1 (http://www.tvone1.tv/) live tv website - TV Channels From All Over The World
+- added ShadowNet (http://www.shadow-net.org/) live tv website - TV Channels From All Over The World
+- fixed Direct link catcher
+- removed favourites category (not working correctly)
+- removed settings option to hide Israeli Sports channels
+- removed option to remotely update a specific file at addon startup, got a solution for repo bandwidth problem (moved to Github)
+
+------------------------------
+v 2017.01.06
+------------------------------
+- complete INTERFACE MAKEOVER
+- added FilmOn (http://www.filmon.com/) live tv website - TV Channels From All Over The World
+- added LiveOnlineTv247 (http://www.liveonlinetv247.info/) live tv website - TV Channels From All Over The World
+- added Stream2Watch (http://www.stream2watch.cc/) live tv website - TV Channels From All Over The World
+- added IBROD (http://ibrod.tv/) live tv website - English
+- added CinestrenosTV (http://cinestrenostv.tv/) live tv website - Spanish
+- added Envivo Television (http://envivotelevision.com/) live tv website - Spanish
+- added Nivdal website scraper and channels
+- fix shidurlive catcher
+- fix castamp catcher
+- fix Hadlafa live channels scraper
+- added favourites category
+- added settings option to hide Israeli Sports channels
+- added settings option to hide Adult channels
+- added option to remotely update a specific file at addon startup
+- remove tvDEZ - website is down
+
+------------------------------
+v 2016.12.25
+------------------------------
+- added Hadlafa (http://www.hadlafa.net/) website - Israeli VOD
+- added Olam Hamedia (http://www.olam-hamedia.tech/) website - Israeli VOD
+- added tvDEZ (http://www.estadiofutebol.com/) live tv website - Portuguese
+
+------------------------------
+v 2016.12.24
+------------------------------
+- added Broadcast Schedule (ProTV daily sport schedule, and channels 1,10,2)
+- add MTV channels
+- added Karwan (http://karwan.tv/) live tv website - Kurdish
+- remove Israeli IPTV category due to lack of stability
+
+------------------------------
+v 2016.12.20
+------------------------------
+- added Israeli IPTV channels
+- added Israeli IPTV category
+- reduce addon file size by removing unnecessary images
+
+------------------------------
+v 2016.12.17
+------------------------------
+- added BigBrother channel
+- added OKLiveTV (http://oklivetv.com/) live tv website - TV Channels From All Over The World
+- added CanliTV (http://www.canlitv.life/) live tv website - Turkish
+
+------------------------------
+v 2016.12.13
+------------------------------
+- added Greece Channels to World Channels
+- added Cyprus Channels to World Channels
+- added World Channels Category
+- added Other Channels Category
+- improve YouTube catcher
+- fix Xusca catcher
+
+------------------------------
+v 2016.12.12
+------------------------------
+- improve IPTV catcher for .ts links (use f4mTester)
+
+------------------------------
+v 2016.12.11
+------------------------------
+- added Twitch catcher
+- fix ss365 catcher
+- added requirement: repository.RoiD
+
+------------------------------
+v 2016.12.10
+------------------------------
+- added dailymotion catcher
+
+------------------------------
+v 2016.12.09
+------------------------------
+- semi-fix for Facebook Live channel (works on all devices only on wifi and not on mobile data)
+- arrange the adult category
+- minor fix for youtube catcher
+- ponlatv catcher fixed
+
+------------------------------
+v 2016.12.07
+------------------------------
+- added Adult live channels in the Others category
+- minor fix for IPTV catcher for .ts links
+
+------------------------------
+v 2016.12.06
+------------------------------
+- added Facebook Live channel (automatically gets live videos from chosen facebook pages)
+- remove channel LiveSportIL Facebook page (auto get live stream)
+- added IPTV catcher for .ts links
+
+------------------------------
+v 2016.11.29
+------------------------------
+- remove import addon="script.module.pydevd"
+- added some catchers from 2016-11-20_JX update
+
+------------------------------
+v 2016.11.27
+------------------------------
+- added TIVIX (http://tivix.co) live tv website - Russian,Ukrainian,Belarus,British channels
+- added Live TV Websites section
+
+------------------------------
+v 2016.11.26
+------------------------------
+- fix Facebook catcher to get multi live streams from page
+- update all files from SportsDevil v2016.11.20
+
+------------------------------
+v 2016.11.25
+------------------------------
+- added channel LiveSportIL Facebook page (auto get live stream)
+- added Facebook catcher
+- added IsraMedia channels 10,22
+- added IsraMedia catcher
+
+------------------------------
+v 2016.11.22
+------------------------------
+- added WSOP 2016 videos
+- added WSOP category for WSOP videos
+- added Others section
+- remove External Addons category from settings
+- remove download path from settings
+
+------------------------------
+v 2016.11.21
+------------------------------
+- added arconaitv catcher
+- remove Discovery RO channels
+- updated few logos
+
+------------------------------
+v 2016.11.20
+------------------------------
+- added Discovery channels
+- added policies
+
+------------------------------
+v 2016.11.19
+------------------------------
+- added tv2go channels 11,10,22
+
+------------------------------
+v 2016.11.18
+------------------------------
+- clean folders
+
+------------------------------
+v 2016.11.13
+------------------------------
+- added Sky Sports channels
+- added Eurosport channels
+
+------------------------------
+v 2016.11.12
+------------------------------
+- all channels to main menu
+- remove favourites option
+
+------------------------------
+v 2016.11.11
+------------------------------
+- Initial new repo 
+
+
+
+
+
+

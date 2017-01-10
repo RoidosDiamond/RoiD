@@ -1,0 +1,5 @@
+[B]Version 1.0.2[/B]
+- addons moved to Github
+
+[B]Version 1.0.1[/B]
+- Initial version
