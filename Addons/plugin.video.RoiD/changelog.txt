@@ -1,4 +1,10 @@
 ------------------------------
+v 2017.01.11
+------------------------------
+- updated Hadlafa (http://www.hadlafa.net/) website - Israeli VOD
+- fixed dailymotion catcher
+
+------------------------------
 v 2017.01.10
 ------------------------------
 - Interface changed. all the israeli channels are in the main screen.
