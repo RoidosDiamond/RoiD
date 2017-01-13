@@ -1,4 +1,10 @@
 ------------------------------
+v 2017.01.12
+------------------------------
+- updated Olam Hamedia (http://www.olam-hamedia.tech/) website - Israeli VOD
+- added vidto catcher
+
+------------------------------
 v 2017.01.11
 ------------------------------
 - updated Hadlafa (http://www.hadlafa.net/) website - Israeli VOD
