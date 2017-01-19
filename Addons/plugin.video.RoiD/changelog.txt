@@ -1,4 +1,15 @@
 ------------------------------
+v 2017.01.19
+------------------------------
+- added Tvil (http://www.tvil.me/) website - VOD From All Over The World (תרגום מובנה)
+- updated IPTV catcher
+- added Direct link ts catcher
+- added estream catcher
+- added streamin catcher
+- added vidwatch catcher
+- added vidzi catcher
+
+------------------------------
 v 2017.01.12
 ------------------------------
 - updated Olam Hamedia (http://www.olam-hamedia.tech/) website - Israeli VOD
