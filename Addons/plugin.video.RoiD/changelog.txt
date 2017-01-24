@@ -1,4 +1,10 @@
 ------------------------------
+v 2017.01.24
+------------------------------
+- added few israeli channels
+- fix shidurlive catcher (Nivdal streams works again)
+
+------------------------------
 v 2017.01.19
 ------------------------------
 - added Tvil (http://www.tvil.me/) website - VOD From All Over The World (תרגום מובנה)
