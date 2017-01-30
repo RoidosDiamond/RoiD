@@ -1,4 +1,10 @@
 ------------------------------
+v 2017.01.30
+------------------------------
+- updated Olam Hamedia (http://www.olam-hamedia.tech/) website - Israeli VOD
+- fix facebook catcher (embeded live videos)
+
+------------------------------
 v 2017.01.24
 ------------------------------
 - added few israeli channels
