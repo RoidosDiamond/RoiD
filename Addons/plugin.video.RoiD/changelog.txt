@@ -1,4 +1,10 @@
 ------------------------------
+v 2017.01.31
+------------------------------
+- updated Nivdal website scraper and channels
+- fix shidurlive catcher (Nivdal streams works again)
+
+------------------------------
 v 2017.01.30
 ------------------------------
 - updated Olam Hamedia (http://www.olam-hamedia.tech/) website - Israeli VOD
