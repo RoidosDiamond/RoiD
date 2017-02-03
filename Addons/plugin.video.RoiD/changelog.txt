@@ -1,4 +1,12 @@
 ------------------------------
+v 2017.02.02
+------------------------------
+- added Live Sport Results - תוצאות ספורט בזמן אמת
+- added Sport5 VOD (http://vod.sport5.co.il/) website - VOD From Sport 5 website
+- added Channel i24 News
+- complete icons update
+
+------------------------------
 v 2017.01.31
 ------------------------------
 - updated Nivdal website scraper and channels
