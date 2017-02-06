@@ -1,8 +1,17 @@
 ------------------------------
+v 2017.02.06
+------------------------------
+- added Sport 1 VOD (http://sport1.maariv.co.il/) website - VOD From Sport 1 website
+- added Sport One VOD (http://www.one.co.il/VOD/) website - VOD From Sport One website
+- updated Sport 5 VOD (http://vod.sport5.co.il/) website - VOD From Sport 5 website
+- updated Broadcast Schedule (additional channels added)
+- updated facebook catcher (embeded live videos)
+
+------------------------------
 v 2017.02.02
 ------------------------------
 - added Live Sport Results - תוצאות ספורט בזמן אמת
-- added Sport5 VOD (http://vod.sport5.co.il/) website - VOD From Sport 5 website
+- added Sport 5 VOD (http://vod.sport5.co.il/) website - VOD From Sport 5 website
 - added Channel i24 News
 - complete icons update
 
