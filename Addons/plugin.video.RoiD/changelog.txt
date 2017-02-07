@@ -1,4 +1,10 @@
 ------------------------------
+v 2017.02.07
+------------------------------
+- added Nick Junior Walla VOD (http://nickjr.walla.co.il/) website - VOD From Nick Junior Walla website
+- added Vidi.tv (http://vidi.tv/) - Live Russian broadcasts
+
+------------------------------
 v 2017.02.06
 ------------------------------
 - added Sport 1 VOD (http://sport1.maariv.co.il/) website - VOD From Sport 1 website
