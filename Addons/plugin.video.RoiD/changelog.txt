@@ -1,4 +1,11 @@
 ------------------------------
+v 2017.02.11
+------------------------------
+- added Popy VOD (http://www.popy.co.il/) website - VOD From Popy website
+- added Kids Channel VOD (http://www.kidstv.co.il/VOD) website - VOD From Kids Channel website
+- added decode command to parser
+
+------------------------------
 v 2017.02.07
 ------------------------------
 - added Nick Junior Walla VOD (http://nickjr.walla.co.il/) website - VOD From Nick Junior Walla website
