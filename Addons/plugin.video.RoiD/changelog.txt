@@ -1,4 +1,12 @@
 ------------------------------
+v 2017.02.16
+------------------------------
+- added Zoom VOD (http://zoomtv.co.il/) website - VOD From Zoom website
+- added MoskvaTV (http://www.moskvatv.org/) live tv website - Russian
+- added PORNOVKA.cz (http://pornovka.cz/) website - Czech porno website
+- added translation command to parser
+
+------------------------------
 v 2017.02.11
 ------------------------------
 - added Popy VOD (http://www.popy.co.il/) website - VOD From Popy website
