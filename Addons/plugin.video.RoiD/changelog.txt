@@ -1,4 +1,17 @@
 ------------------------------
+v 2017.02.21
+------------------------------
+- added Sparo (http://www.sparo.pw/) website - VOD From All Over The World (תרגום מובנה)
+- fixed ProTV daily sport broadcast schedule
+- fixed streamin catcher
+- fixed vidto catcher
+- added playreplay catcher
+- added uptostream catcher
+- added vid catcher
+- removed israeli IPTV channels - weak source
+- added dynamic url option with user input for search to common
+
+------------------------------
 v 2017.02.16
 ------------------------------
 - added Zoom VOD (http://zoomtv.co.il/) website - VOD From Zoom website
