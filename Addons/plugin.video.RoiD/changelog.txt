@@ -1,4 +1,16 @@
 ------------------------------
+v 2017.02.26
+------------------------------
+- added Radio CoolSite (http://radio.coolsite.co.il/) radio website
+- added Kan (http://www.kan.org.il/) radio website
+- added Galgalatz playlists
+- added Radio category
+- replace ProTV daily sport broadcast schedule with AllSport daily sport broadcast schedule
+- added decode_utf8 and encode_utf8 commands to parser
+- added decode_Windows1252 and encode_Windows1252 commands to parser
+- added decode_Windows1255 and encode_Windows1255 commands to parser
+
+------------------------------
 v 2017.02.21
 ------------------------------
 - added Sparo (http://www.sparo.pw/) website - VOD From All Over The World (תרגום מובנה)
