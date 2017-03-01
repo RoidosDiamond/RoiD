@@ -1,4 +1,18 @@
 ------------------------------
+v 2017.03.01
+------------------------------
+- added Hidabroot channel
+- added Hidabroot VOD (http://www.hidabroot.org/vod) website - VOD From Hidabroot website
+- added Nick Walla VOD (http://nick.walla.co.il/) website - VOD From Nick Walla website
+- minor fix to Nick Junior Walla VOD
+- added Food Channel Walla VOD (http://vod.walla.co.il/channel/308) website - VOD From Food Channel Walla website
+- added Travel Channel Walla VOD (http://vod.walla.co.il/channel/309) website - VOD From Travel Channel Walla website
+- added Health Channel Walla VOD (http://vod.walla.co.il/channel/303) website - VOD From Health Channel Walla website
+- added Life Style Channel Walla VOD (http://vod.walla.co.il/channel/318) website - VOD From Life Style Channel Walla website
+- added Shaa Historit podcasts library
+- added numPlus1 command to parser
+
+------------------------------
 v 2017.02.26
 ------------------------------
 - added Radio CoolSite (http://radio.coolsite.co.il/) radio website
