@@ -1,4 +1,10 @@
 ------------------------------
+v 2017.03.02
+------------------------------
+- added Kabbalah channel
+- updated Hadlafa (http://www.hadlafa.net/) website - Israeli VOD
+
+------------------------------
 v 2017.03.01
 ------------------------------
 - added Hidabroot channel
