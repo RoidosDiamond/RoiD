@@ -1,4 +1,47 @@
 ------------------------------
+v 2017.03.10
+------------------------------
+- added SeretHD (http://serethd.net/) website - VOD From All Over The World (תרגום מובנה)
+- updated Hadlafa website to .com domain
+- updated champions-il source to .us domain
+- added Galgalatz 6 new stations to Radio category
+- added urlresolver configuration to parser
+- added requirement: script.module.urlresolver
+- added https requests ability to common
+- added post requests ability to common
+- updated vidgg catcher (via urlresolver)
+- updated vidzi catcher (via urlresolver)
+- updated vidto catcher (via urlresolver)
+- updated uptostream catcher (via urlresolver)
+- updated streamin catcher (via urlresolver)
+- added flashx catcher (via urlresolver)
+- added youwatch catcher (via urlresolver)
+- added chouhaa catcher (via urlresolver)
+- added openload catcher (via urlresolver)
+- added uptobox catcher (via urlresolver)
+- added nowvideo catcher (via urlresolver)
+- added streamcloud catcher (via urlresolver)
+- added novamov catcher (via urlresolver)
+- added auroravid catcher (via urlresolver)
+- added videoweed catcher (via urlresolver)
+- added videowood catcher (via urlresolver)
+- added bitvid catcher (via urlresolver)
+- added grifthost catcher (via urlresolver)
+- added goodvideohost catcher (via urlresolver)
+- added gorillavid catcher (via urlresolver)
+- added exashare catcher (via urlresolver)
+- added tusfiles catcher (via urlresolver)
+- added nosvideo catcher (via urlresolver)
+- added raptu catcher (via urlresolver)
+- added xn--gebzbbce catcher
+- added myfile catcher
+- added upfile catcher
+- added upf catcher
+- added f2h catcher
+- added movdivx catcher
+- added vimeo catcher
+
+------------------------------
 v 2017.03.02
 ------------------------------
 - added Kabbalah channel
