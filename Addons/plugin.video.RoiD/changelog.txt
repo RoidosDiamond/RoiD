@@ -9,6 +9,7 @@ v 2017.03.10
 - added requirement: script.module.urlresolver
 - added https requests ability to common
 - added post requests ability to common
+- updated dailymotion catcher (via urlresolver)
 - updated vidgg catcher (via urlresolver)
 - updated vidzi catcher (via urlresolver)
 - updated vidto catcher (via urlresolver)
