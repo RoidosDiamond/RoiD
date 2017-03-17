@@ -1,4 +1,11 @@
 ------------------------------
+v 2017.03.16
+------------------------------
+- added Reshet (http://reshet.tv/) website - VOD From Reshet website
+- updated Tvil timeout to 2 min
+- added combined webpages requests ability to common
+
+------------------------------
 v 2017.03.11
 ------------------------------
 - added SeretHD (http://serethd.net/) website - VOD From All Over The World (תרגום מובנה)
