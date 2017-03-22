@@ -1,4 +1,11 @@
 ------------------------------
+v 2017.03.22
+------------------------------
+- updated Hadlafa website
+- updated Olam Hamedia website
+- added vidabc catcher (via urlresolver)
+
+------------------------------
 v 2017.03.16
 ------------------------------
 - added Reshet (http://reshet.tv/) website - VOD From Reshet website
