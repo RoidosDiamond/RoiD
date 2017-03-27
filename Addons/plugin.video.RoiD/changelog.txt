@@ -1,4 +1,11 @@
 ------------------------------
+v 2017.03.27
+------------------------------
+- added keshet live catcher to channel 2
+- added Films Space (http://films-space.xyz/) website - סרטים עם דיבוב ברוסית
+- added Radio Bitnua - Rikudei Am songs
+
+------------------------------
 v 2017.03.24
 ------------------------------
 - updated Tvil website
