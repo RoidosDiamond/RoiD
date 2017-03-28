@@ -1,4 +1,18 @@
 ------------------------------
+v 2017.03.28
+------------------------------
+- added Hadlafa movies
+- added eCanliTVizle (http://www.ecanlitvizle.net/) live tv website - Turkish
+- added CanliTV.stream (http://www.canlitv.stream/) live tv website - Turkish
+- added CanliTVlive (http://www.canlitvlive.co/) live tv website - Turkish
+- updated tvOne1 website
+- updated Stream2Watch website
+- updated Karwan website
+- removed CanliTV.life website
+- removed IBROD.tv website
+- updated m3u8 catcher
+
+------------------------------
 v 2017.03.27
 ------------------------------
 - added keshet live catcher to channel 2
