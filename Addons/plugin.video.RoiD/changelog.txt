@@ -3,7 +3,7 @@ v 2017.04.01
 ------------------------------
 - added Sports4u (http://sports4u.ws/) website - Live Sports channels
 - removed BigBrother channel
-- aadon overlap SD_jx 2017.03.28 (many code improvments and catchers fixes)
+- aadon overlap SD_jx 2017.03.28 (many catchers fixes)
 
 ------------------------------
 v 2017.03.29
