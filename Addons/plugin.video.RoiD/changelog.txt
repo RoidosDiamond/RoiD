@@ -1,4 +1,9 @@
 ------------------------------
+v 2017.04.03
+------------------------------
+- added M2 Radio (http://www.m2radio.fr/) website - Live Radio stations by categories
+
+------------------------------
 v 2017.04.01
 ------------------------------
 - added Sports4u (http://sports4u.ws/) website - Live Sports channels
