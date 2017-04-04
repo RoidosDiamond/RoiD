@@ -1,4 +1,16 @@
 ------------------------------
+v 2017.04.04
+------------------------------
+- added FootyRoom (http://footyroom.com/) website - Football highlights
+- added streamable catcher
+- added pptvthailand catcher
+- added ooyala catcher
+- added boxxspring catcher
+- added playwire catcher
+- updated aliez catcher
+- updated youtube catcher
+
+------------------------------
 v 2017.04.03
 ------------------------------
 - added M2 Radio (http://www.m2radio.fr/) website - Live Radio stations by categories
