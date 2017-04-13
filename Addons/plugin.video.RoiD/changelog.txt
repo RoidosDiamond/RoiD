@@ -1,4 +1,12 @@
 ------------------------------
+v 2017.04.13
+------------------------------
+- added KRAL muzik (http://www.kralmuzik.com.tr/) website - Turkish music
+- fixed Channel 1 channel
+- fixed Nivdal website
+- fixed Sports4u website
+
+------------------------------
 v 2017.04.04
 ------------------------------
 - added FootyRoom (http://footyroom.com/) website - Football highlights
