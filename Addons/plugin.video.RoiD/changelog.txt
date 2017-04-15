@@ -1,4 +1,10 @@
 ------------------------------
+v 2017.04.15
+------------------------------
+- added KaraokeTV (https://www.karaoketv.co.il/) website
+- added SeretVOD (http://seretvod.com/) website - VOD From All Over The World (תרגום מובנה)
+
+------------------------------
 v 2017.04.14
 ------------------------------
 - added 100 FM (http://digital.100fm.co.il/) website - Live Radio stations by categories
