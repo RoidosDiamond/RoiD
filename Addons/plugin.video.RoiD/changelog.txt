@@ -1,8 +1,22 @@
 ------------------------------
+v 2017.04.16
+------------------------------
+- added XNXX.com (https://www.xnxx.com/) website - Porno website
+- fixed all walla vod's (Nick, NickJr, Food, Health, LifeStyle, Travel)
+- fixed Channel 33 channel
+
+------------------------------
 v 2017.04.15
 ------------------------------
 - added KaraokeTV (https://www.karaoketv.co.il/) website
 - added SeretVOD (http://seretvod.com/) website - VOD From All Over The World (תרגום מובנה)
+- updated raptu catcher
+- added vidup catcher
+- added vidtodo catcher
+- added voodaith7e catcher
+- added vodlock catcher
+- added thevideo catcher
+- added strip command to parser
 
 ------------------------------
 v 2017.04.14
