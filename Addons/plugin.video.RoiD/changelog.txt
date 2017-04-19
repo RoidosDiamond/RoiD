@@ -1,4 +1,11 @@
 ------------------------------
+v 2017.04.19
+------------------------------
+- added password option for adult category in addon settings
+- added Doctor Oz (http://www.doctoroz.com/) website
+- updated Sparo website
+
+------------------------------
 v 2017.04.16
 ------------------------------
 - added XNXX.com (https://www.xnxx.com/) website - Porno website
