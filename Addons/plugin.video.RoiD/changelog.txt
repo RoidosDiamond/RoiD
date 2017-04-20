@@ -1,4 +1,11 @@
 ------------------------------
+v 2017.04.20
+------------------------------
+- added OWL TV application - TV Channels From All Over The World
+- added GeoTV TV application - Georgian
+- added Televizia.tv (http://televizia.tv/) website - Georgian
+
+------------------------------
 v 2017.04.19
 ------------------------------
 - added password option for adult category in addon settings
