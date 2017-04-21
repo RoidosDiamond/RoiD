@@ -1,4 +1,15 @@
 ------------------------------
+v 2017.04.21
+------------------------------
+- fixed Hadlafa website
+- fixed SeretHD website
+- added cloudflare support
+- added srcBackup command to parser
+- added restoreIfEmpty command to parser
+- added appendToStart command to parser
+- added appendToEnd command to parser
+
+------------------------------
 v 2017.04.20
 ------------------------------
 - added OWL TV application - TV Channels From All Over The World
