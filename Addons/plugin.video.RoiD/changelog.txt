@@ -1,4 +1,9 @@
 ------------------------------
+v 2017.04.26
+------------------------------
+- added MediaBay TV (http://mediabay.tv/) website - Azerbaijan, Kyrgyzstan, Kazakhstan, Russia, Tajikistan, Turkmenistan, Turkey, Uzbekistan
+
+------------------------------
 v 2017.04.25
 ------------------------------
 - added Ethiopian channels
