@@ -1,4 +1,15 @@
 ------------------------------
+v 2017.06.04
+------------------------------
+- updated fanart picture (need to remove manually Kodi\userdata\Database\Textures file to see this update)
+- added Kan11 and Kan33 channels
+- fixed Hidabroot channel
+- fixed Nivdal category
+- fixed Sport 1 VOD
+- updated channels links
+- remove Hadlafa website from VOD
+
+------------------------------
 v 2017.04.26
 ------------------------------
 - added MediaBay TV (http://mediabay.tv/) website - Azerbaijan, Kyrgyzstan, Kazakhstan, Russia, Tajikistan, Turkmenistan, Turkey, Uzbekistan
